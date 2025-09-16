@@ -1,3 +1,6 @@
 [submodule "glocation-be"]
 	path = glocation-be
 	url = https://github.com/sbsmrth/glocation-be
+[submodule "glocation-fe"]
+	path = glocation-fe
+	url = https://github.com/sbsmrth/glocation-fe
