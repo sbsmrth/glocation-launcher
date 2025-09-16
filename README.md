@@ -62,3 +62,7 @@ cd glocation-fe
 npm install
 npm run dev
 ```
+
+## Sobre la elección de Nest JS
+
+Se eligió NestJS porque proporciona una arquitectura modular y organizada que facilita la escalabilidad y el mantenimiento del proyecto. Mientras que con Node.js puro es necesario estructurar controladores, servicios y validaciones. NestJS ofrece un marco basado en TypeScript, inyección de dependencias y principios de arquitectura limpia, lo que acelera el desarrollo y reduce la complejidad en aplicaciones empresariales.
