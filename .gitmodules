@@ -1,0 +1,3 @@
+[submodule "glocation-be"]
+	path = glocation-be
+	url = https://github.com/sbsmrth/glocation-be
