@@ -52,6 +52,8 @@ git submodule update --init --recursive
 ```bash
 cd glocation-be
 npm install
+npx prisma migrate dev
+docker compose up -d
 npm run start:dev
 ```
 
